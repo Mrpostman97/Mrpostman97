@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Scheuble</h1>
 <h3 align="center">A passionate Cyber Security enthusiast 😁</h3>
 ![coding](https://github.com/Mrpostman97/Mrpostman97/blob/main/cyber-attack-.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpostman97&label=Profile%20views&color=0e75b6&style=flat" alt="mrpostman97" /> </p>
+
 
 - 🔭 I’m currently working on **A Virtual Home Lab**
 
